@@ -1,0 +1,53 @@
+table{
+width:1600px;
+height:1500px; 
+border: none !important;
+border-collapse: collapse;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  height: 25%
+}
+#top{
+height:100px;
+background-color:#000000;
+
+}
+#banner{
+height:300px;
+
+}
+#main{
+height:900
+
+}
+#border{
+background-color:#000000
+}
+#textcell{
+text-align:center
+}
+#bottom{
+column-span:4;
+background-color:#000000
+}
+#bottombdr{
+height:100px;
+}
+#goldtxt{
+color:gold;
+}
+#CrAct{
+text-align:right;
+}
+#buttons{
+height:100px ;
+background-color:#696969
+}
+#loginbtns{
+text-align:center
+}

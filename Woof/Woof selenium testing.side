@@ -1,0 +1,21 @@
+{
+  "id": "348d51a4-e14c-45aa-972d-ca700f8ee850",
+  "version": "2.0",
+  "name": "Woof selenium testing",
+  "url": "",
+  "tests": [{
+    "id": "bdb6d008-d37a-407a-b820-c44692595fb7",
+    "name": "Untitled",
+    "commands": []
+  }],
+  "suites": [{
+    "id": "8c82638d-14e8-4712-82a8-30493cb3e24a",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["bdb6d008-d37a-407a-b820-c44692595fb7"]
+  }],
+  "urls": [],
+  "plugins": []
+}
